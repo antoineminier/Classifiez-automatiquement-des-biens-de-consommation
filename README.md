@@ -6,7 +6,7 @@ Clustering de produits à partir de leur description textuelle et de leur image.
 Ce projet a été réalisé au cours de ma formation de Data scientist à OpenClassrooms.
 
 
-# Scénario du projet
+## Scénario du projet
 
 Une marketplace e-commerce envisage d'automatiser la catégorisation des produits qui s'y vendent. Pour le moment, des vendeurs proposent des articles à des acheteurs en postant une photo et une description, et attribuent eux-mêmes une catégorie à leur produit. 
 
@@ -16,7 +16,7 @@ On attend que la faisabilité de l'automatisation soit démontrée ou infirmée 
 
 
 
-# Compétences évaluées
+## Compétences évaluées
 
 - Utiliser des techniques d’augmentation des données
 - Prétraiter des données texte pour obtenir un jeu de données exploitable
