@@ -3,7 +3,7 @@ Clustering de produits à partir de leur description textuelle et de leur image.
 
 
 
-Ce projet a été réalisé au cours de ma formation de Data scientist à OpenClassrooms.
+Ce projet est le 6e réalisé au cours de ma formation de Data scientist à OpenClassrooms.
 
 
 ## Scénario du projet
