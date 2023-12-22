@@ -1,12 +1,12 @@
 # 6 - Classifiez-automatiquement-des-biens-de-consommation
-Classification de produits à partir de leur description textuelle et de leur image.
+Clustering de produits à partir de leur description textuelle et de leur image.
 
 
 
 Ce projet a été réalisé au cours de ma formation de Data scientist à OpenClassrooms.
 
 
-## Scénario du projet
+# Scénario du projet
 
 Une marketplace e-commerce envisage d'automatiser la catégorisation des produits qui s'y vendent. Pour le moment, des vendeurs proposent des articles à des acheteurs en postant une photo et une description, et attribuent eux-mêmes une catégorie à leur produit. 
 
@@ -15,7 +15,8 @@ La mission consiste à faire une étude de faisabilité pour déterminer s'il se
 On attend que la faisabilité de l'automatisation soit démontrée ou infirmée par les résultats d'un clustering effectué sur les caractéristiques extraites des images et des descriptions, avec une représentation graphique en deux dimensions de ces résultats.
 
 
-## Compétences évaluées
+
+# Compétences évaluées
 
 - Utiliser des techniques d’augmentation des données
 - Prétraiter des données texte pour obtenir un jeu de données exploitable
