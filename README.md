@@ -1,4 +1,4 @@
-# Classifiez-automatiquement-des-biens-de-consommation
+# 6 - Classifiez-automatiquement-des-biens-de-consommation
 Classification de produits à partir de leur description textuelle et de leur image.
 
 
@@ -8,11 +8,11 @@ Ce projet a été réalisé au cours de ma formation de Data scientist à OpenCl
 
 ## Scénario du projet
 
-Vous êtes Data Scientist au sein de l’entreprise "Place de marché”, qui souhaite lancer une marketplace e-commerce.
-Sur la place de marché, des vendeurs proposent des articles à des acheteurs en postant une photo et une description.
-Pour l'instant, l'attribution de la catégorie d'un article est effectuée manuellement par les vendeurs, et est donc peu fiable. De plus, le volume des articles est pour l’instant très petit.
-Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible, et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
-Il vous est demandé d'étudier la faisabilité d'un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant.
+Une marketplace e-commerce envisage d'automatiser la catégorisation des produits qui s'y vendent. Pour le moment, des vendeurs proposent des articles à des acheteurs en postant une photo et une description, et attribuent eux-mêmes une catégorie à leur produit. 
+
+La mission consiste à faire une étude de faisabilité pour déterminer s'il serait possible de mettre en place une catégorisation automatique des articles à partir de leur image ou de leur description.
+
+On attend que la faisabilité de l'automatisation soit démontrée ou infirmée par les résultats d'un clustering effectué sur les caractéristiques extraites des images et des descriptions, avec une représentation graphique en deux dimensions de ces résultats.
 
 
 ## Compétences évaluées
