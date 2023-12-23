@@ -10,8 +10,8 @@ Ce projet est le 6<sup>e</sup> réalisé au cours de ma formation de Data scient
 
 Une marketplace e-commerce envisage d'automatiser la catégorisation des produits qui s'y vendent. Pour le moment, des vendeurs proposent des articles à des acheteurs en postant une photo et une description, et attribuent eux-mêmes une catégorie à leur produit. 
 
-La mission consiste, dans un premier temps, à faire une étude de faisabilité pour déterminer s'il serait possible de mettre en place une catégorisation automatique des articles à partir de leur image ou de leur description.
-On attend que la faisabilité de l'automatisation soit démontrée ou infirmée par les résultats d'un clustering effectué sur les caractéristiques extraites des images et des descriptions, avec une représentation graphique en deux dimensions de ces résultats.
+La mission consiste, dans un premier temps, à faire une étude de faisabilité pour déterminer s'il serait possible d'automatiser la catégorisation des articles à partir de leur image ou de leur description.
+On attend que cette faisabilité soit démontrée ou infirmée par les résultats d'un clustering effectué sur les caractéristiques extraites des images et des descriptions, avec une représentation graphique en deux dimensions de ces résultats.
 
 Suite aux conclusions de l'étude de faisabilité, on réalise une classification supervisée à partir des images des produits, avec une augmentation des données.
 
