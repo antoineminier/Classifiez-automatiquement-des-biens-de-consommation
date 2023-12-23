@@ -13,6 +13,8 @@ On attend que cette faisabilité soit démontrée ou infirmée par les résultat
 
 Suite aux conclusions de l'étude de faisabilité, on réalise une classification supervisée à partir des images des produits, avec une augmentation des données.
 
+On teste également la collecte de données à partir d'une API.
+
 
 ## Compétences évaluées
 
